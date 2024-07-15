@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chifishfish
-- 👀 I’m interested in CCS
+- 👀 I’m interested in C# C++ JavaScript
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :lyacnl@outlook.com
