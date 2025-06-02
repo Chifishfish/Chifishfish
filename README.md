@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#ff66cc;">你好，我是 <a href="https://github.com/Chifishfish" style="color:#ff99cc;">Chifishfish</a> 🐟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ff66cc&center=true&vCenter=true&width=600&lines=欢迎来到我的GitHub!;专注JavaScript+Python;创造简单·独特的代码世界✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ff66cc&center=true&vCenter=true&width=600&lines=欢迎来到我的GitHub!;专注JavaScript,Python;CSS,HTML;创造简单,独特的代码世界!✨" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,18 +47,11 @@
 ## 🚀 项目介绍
 
 ### 个人主页 - <a href="https://chifishfish.pages.dev" style="color:#ff66cc;">chifishfish.pages.dev</a>  
-我的个人主页展示了我对前端设计的热情和技术积累。项目用纯净的HTML、CSS和JavaScript打造，追求极致响应和视觉美感。  
+我的个人主页展示了我对前端设计的热情。项目用纯净的HTML、CSS和JavaScript打造，追求极致响应和视觉美感。  
 致力于创造用户体验友好、界面简洁却功能强大的网页。
 
 ---
 
-## 📚 个人作品集
-
-- [项目1名称](#) - 介绍项目的核心功能与技术亮点  
-- [项目2名称](#) - 简短描述项目特色及应用场景  
-- [项目3名称](#) - 展示项目成就和收获  
-
----
 
 ## ✍️ 学习笔记
 
@@ -82,23 +75,14 @@
 - [MDN Web Docs](https://developer.mozilla.org/zh-CN/)  
 - [Python官方文档](https://docs.python.org/zh-cn/3/)  
 
----
-
-## 🎯 开源贡献
-
-积极参与社区开源项目，欢迎交流合作，推动开源生态发展。
-
----
 
 ## 🎮 兴趣爱好
-
-- 游戏开发与设计  
-- 音乐创作与电子合成  
-- 数字绘画与视觉艺术  
+  
+- 编网站，打游戏...
 
 ---
 
-## 📬 联系我
+## 📬 要不试着联系我to make friend with me？
 
 <p align="center">
   <a href="https://github.com/Chifishfish" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
