@@ -5,14 +5,18 @@
 </p>
 
 ---
-
 ## 关于我
 
-> **简单·独特**  
+> **简单·独特**
+> Simple & Unique
+> 
+>**“独行群星之间，命运重负相随”**
 > *Alone among the stars, bound by the weight of fate.*
 
-我是一个热爱编程的开发者，专注于前端与 Python，喜欢用代码创造简洁而有力量的数字世界。  
-喜欢探索新技术，追求代码优雅与功能实用的完美结合。  
+*一个前端热爱着，痴迷于打造既美丽又温柔的用户体验，让每一次浏览都如诗般流淌。*
+***A frontend lover, enchanted by crafting beautiful and gentle user experiences that flow like poetry with every visit.***
+
+  
 
 ---
 
@@ -42,9 +46,55 @@
 
 ## 🚀 项目介绍
 
-### 个人主页 - [chifishfish.pages.dev](https://chifishfish.pages.dev)  
+### 个人主页 - <a href="https://chifishfish.pages.dev" style="color:#ff66cc;">chifishfish.pages.dev</a>  
 我的个人主页展示了我对前端设计的热情和技术积累。项目用纯净的HTML、CSS和JavaScript打造，追求极致响应和视觉美感。  
 致力于创造用户体验友好、界面简洁却功能强大的网页。
+
+---
+
+## 📚 个人作品集
+
+- [项目1名称](#) - 介绍项目的核心功能与技术亮点  
+- [项目2名称](#) - 简短描述项目特色及应用场景  
+- [项目3名称](#) - 展示项目成就和收获  
+
+---
+
+## ✍️ 学习笔记
+
+- 前端框架心得分享  
+- Python 实践小项目总结  
+- CSS 动画与布局技巧  
+
+---
+
+## 🌱 未来规划
+
+- 深入掌握 React 和 Vue 框架  
+- 学习后端开发，尝试 Node.js 和 Flask  
+- 参与更多开源项目，提升协作能力  
+
+---
+
+## 📝 技术博客推荐
+
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)  
+- [MDN Web Docs](https://developer.mozilla.org/zh-CN/)  
+- [Python官方文档](https://docs.python.org/zh-cn/3/)  
+
+---
+
+## 🎯 开源贡献
+
+积极参与社区开源项目，欢迎交流合作，推动开源生态发展。
+
+---
+
+## 🎮 兴趣爱好
+
+- 游戏开发与设计  
+- 音乐创作与电子合成  
+- 数字绘画与视觉艺术  
 
 ---
 
