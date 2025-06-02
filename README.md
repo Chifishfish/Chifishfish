@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ff66cc&center=true&vCenter=true&width=600&lines=欢迎来到我的GitHub!;专注JavaScript+Python;创造简单·独特的代码世界✨" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="250" />
-</p>
-
 ---
 
 ## 关于我
